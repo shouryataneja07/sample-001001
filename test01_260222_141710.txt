@@ -1,0 +1,27 @@
+
+				                **************************************
+						                *               Space                *
+								                **************************************
+										Filesystem      Size  Used Avail Use% Mounted on
+/dev/sdb        251G  1.2G  238G   1% /
+tmpfs           6.2G     0  6.2G   0% /mnt/wsl
+tools           234G   64G  170G  28% /init
+none            6.2G     0  6.2G   0% /dev
+none            6.2G  4.0K  6.2G   1% /run
+none            6.2G     0  6.2G   0% /run/lock
+none            6.2G     0  6.2G   0% /run/shm
+none            6.2G     0  6.2G   0% /run/user
+tmpfs           6.2G     0  6.2G   0% /sys/fs/cgroup
+drivers         234G   64G  170G  28% /usr/lib/wsl/drivers
+lib             234G   64G  170G  28% /usr/lib/wsl/lib
+C:\             234G   64G  170G  28% /mnt/c
+D:\             243G  3.4G  239G   2% /mnt/d
+										                **************************************
+												                *               Uptime                *
+														                **************************************
+																 14:17:10 up 11:08,  0 users,  load average: 0.00, 0.00, 0.00
+																                **************************************
+																		                *               Current time                *
+																				                **************************************
+																						260222_141710
+																						
